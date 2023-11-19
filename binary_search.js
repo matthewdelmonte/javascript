@@ -1,4 +1,4 @@
-const nums = [15, 24, 8, 3, 32, 12, 9];
+const nums = [15, 24, 8, 3, 32, 12, 9, "a"];
 
 const binarySearch = (array, target) => {
 
