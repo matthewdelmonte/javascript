@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "name": "your-package-name",
+    "version": "1.0.0",
+    "description": "Your package description",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "ajv": "^8.12.0"
+    }
+}
