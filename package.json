@@ -1,5 +1,4 @@
 {
-    "type": "module",
     "name": "your-package-name",
     "version": "1.0.0",
     "description": "Your package description",
@@ -8,6 +7,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "ajv": "^8.12.0"
+        "ajv": "^8.12.0",
+        "prompt-sync": "^4.2.0"
     }
 }
